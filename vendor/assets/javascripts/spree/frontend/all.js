@@ -7,5 +7,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require spree/frontend
+//= require bin/materialize
 
 //= require_tree .
