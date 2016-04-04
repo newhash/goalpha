@@ -30,7 +30,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'spree', '~> 3.0.7'
+gem 'spree_core', '~> 3.0.7'
+gem 'spree_api', '~> 3.0.7'
+gem 'spree_backend', '~> 3.0.7'
 gem 'spree_auth_devise', '~> 3.0.5'
 gem 'spree_gateway', '~> 3.0.0'
 
